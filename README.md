@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Nekosu](https://nekos.cc)
 
-- 🌱 I’m currently learning **how to run 2 osu servers**
-
 - 🔭and [osu!Cookiezi](https://cookiezi.gay)
+
+- 🌱 I’m currently learning **how to run 2 osu servers**
 
 - 🤝 I’m looking for help with **anything on Gulag-web**
 
