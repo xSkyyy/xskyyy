@@ -5,5 +5,5 @@
 <p style="text-align: center;">im a professional at not knowing what im doing</p>
 <p style="text-align: center;">im a moderator at <a href="https://libby.gg/matty">Libby</a></p>
 <p style="text-align: center;">If you need to contact me join my <a href="https://nekos.cc/discord">Discord</a> and ping matty#1337</p>
-<p style="text-align: center;"><img src="https://nekos.cc/static/stairs.png" alt="https://nekos.cc/static/stairs.png" width="449" height="300" /></p>
 <p><a href="mailto:matty@cookiezi.gay">Send me an email</a></p>
+<p style="text-align: center;"><img src="https://nekos.cc/static/stairs.png" alt="https://nekos.cc/static/stairs.png" width="449" height="300" /></p>
