@@ -11,3 +11,5 @@ I develop things sometimes but I'm not very good at it.
 **Projects**
  - [Steve](https://steve.nekos.cc/)
  - [Nyoku](https://github.com/mattylive/nyoku)
+
+[![Discord Bots](https://top.gg/api/widget/849690322329665547.svg)](https://top.gg/bot/849690322329665547)
