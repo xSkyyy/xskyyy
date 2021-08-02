@@ -25,5 +25,5 @@ Email:   [admin@nekos.cc](mailto:admin@nekos.cc)
 
 ## My coding activity
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xmtty&show_icons=true&theme=dracula) <br/>
-![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xmtty&theme=dracula&exclude_repo=aether)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xmtty&show_icons=true&theme=gruvbox) <br/>
+![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xmtty&theme=gruvbox)
