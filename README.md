@@ -19,7 +19,7 @@ I'm a 16 year old developer (kinda) who programs mostly in Python but is learnin
 <img align="left" alt="PyCharm" width="30px" height="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png"/> <br/>
 
 ## Contact me
-Discord: mty#0073 \
+Discord: mty#0001 \
 Twitter: [@FemboyMatty](https://twitter.com/femboymatty) \
 Email:   [admin@nekos.cc](mailto:admin@nekos.cc)
 
