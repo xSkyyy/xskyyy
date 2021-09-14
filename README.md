@@ -25,8 +25,8 @@ Email:   [admin@nekos.cc](mailto:admin@nekos.cc)
 
 ## My coding activity
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xmtty&show_icons=true&theme=material-palenight) <br/>
-![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xmtty&theme=material-palenight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xmskyyy&show_icons=true&theme=material-palenight) <br/>
+![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xskyyy&theme=material-palenight)
 
 ## My Discord Server
 ![Discord Banner 2](https://discordapp.com/api/guilds/872923425927225434/widget.png?style=banner2)
