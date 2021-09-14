@@ -1,6 +1,6 @@
 ## About me
 Hey, welcome to my profile!
-My name is matty.
+My name is Sky.
 I'm a 16 year old developer (kinda) who programs mostly in Python but is learning Javascript.
 
 ## Languages and IDEs
