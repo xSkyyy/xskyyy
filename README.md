@@ -1,4 +1,4 @@
-# Hi! I'm Sky <img src="https://static.wikia.nocookie.net/nekopara/images/6/6a/Ch_van_img_03.png/revision/latest?cb=20200519141556" align="right" width="150">
+# Hi! I'm Skylar <img src="https://static.wikia.nocookie.net/nekopara/images/6/6a/Ch_van_img_03.png/revision/latest?cb=20200519141556" align="right" width="150">
 
 ### Socials
 <p><a href="https://xsky.dev">My Website</a></p>
